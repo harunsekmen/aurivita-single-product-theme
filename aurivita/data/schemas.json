@@ -1,0 +1,2861 @@
+{
+  "av-compare": {
+    "name": "t:av.av-compare",
+    "settings": [
+      {
+        "type": "text",
+        "id": "av.compare_0",
+        "label": "Aurivita slayt düğmesi",
+        "default": "Show Aurivita comparison"
+      },
+      {
+        "type": "text",
+        "id": "av.compare_1",
+        "label": "Diğer markalar slayt düğmesi",
+        "default": "Show other brands comparison"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-compare_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "AURIVITA VS. OTHER BRANDS"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "The details that set Aurivita apart"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Information highlighted on the source page."
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Nitric oxide"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Pathway"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Duration"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Target"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Dose"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Inflammation"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Supports natural production through TRPV1"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Supports the body's own processes"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "24+ hours with daily use"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Cellular support for the blood vessel lining"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Small dose, effective absorption"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Supports a healthy inflammatory response"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Other brands"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Temporary 2–6 hour increase from dietary nitrates"
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "Dışarıdan alınan nitratların dönüşümüne dayan"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-compare_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Gaps in support between doses"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Does not directly target the blood vessel lining"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Requires larger servings"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Kaynak karşılaştırmasında tohum yağları vurgu"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Nitric oxide"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Pathway"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Duration"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Target"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Dose"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Inflammation"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Supports natural production through TRPV1"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Supports the body's own processes"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "24+ hours with daily use"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Cellular support for the blood vessel lining"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Small dose, effective absorption"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Supports a healthy inflammatory response"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Other brands"
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "Temporary 2–6 hour increase from dietary nitrates"
+          }
+        ]
+      },
+      {
+        "type": "content_2",
+        "name": "t:av.av-compare_content_2",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Dışarıdan alınan nitratların dönüşümüne dayan"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Gaps in support between doses"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Does not directly target the blood vessel lining"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Requires larger servings"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Kaynak karşılaştırmasında tohum yağları vurgu"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_5",
+            "label": "Aurivita"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_6",
+            "label": "Görsel 2"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_7",
+            "label": "Aurivita"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_8",
+            "label": "Görsel 4"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "t:av.av-compare",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "AURIVITA VS. OTHER BRANDS",
+              "field_1": "The details that set Aurivita apart",
+              "field_2": "Information highlighted on the source page.",
+              "field_3": "Nitric oxide",
+              "field_4": "Pathway",
+              "field_5": "Duration",
+              "field_6": "Target",
+              "field_7": "Dose",
+              "field_8": "Inflammation",
+              "field_9": "Supports natural production through TRPV1",
+              "field_10": "Supports the body's own processes",
+              "field_11": "24+ hours with daily use",
+              "field_12": "Cellular support for the blood vessel lining",
+              "field_13": "Small dose, effective absorption",
+              "field_14": "Supports a healthy inflammatory response",
+              "field_15": "Other brands",
+              "field_16": "Temporary 2–6 hour increase from dietary nitrates",
+              "field_17": "Relies on the conversion of dietary nitrates"
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Gaps in support between doses",
+              "field_1": "Does not directly target the blood vessel lining",
+              "field_2": "Requires larger servings",
+              "field_3": "The source comparison highlights seed oils",
+              "field_4": "Nitric oxide",
+              "field_5": "Pathway",
+              "field_6": "Duration",
+              "field_7": "Target",
+              "field_8": "Dose",
+              "field_9": "Inflammation",
+              "field_10": "Supports natural production through TRPV1",
+              "field_11": "Supports the body's own processes",
+              "field_12": "24+ hours with daily use",
+              "field_13": "Cellular support for the blood vessel lining",
+              "field_14": "Small dose, effective absorption",
+              "field_15": "Supports a healthy inflammatory response",
+              "field_16": "Other brands",
+              "field_17": "Temporary 2–6 hour increase from dietary nitrates"
+            }
+          },
+          {
+            "type": "content_2",
+            "settings": {
+              "field_0": "Relies on the conversion of dietary nitrates",
+              "field_1": "Gaps in support between doses",
+              "field_2": "Does not directly target the blood vessel lining",
+              "field_3": "Requires larger servings",
+              "field_4": "The source comparison highlights seed oils"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Karşılaştırma"
+  },
+  "av-faq": {
+    "name": "t:av.av-faq",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-faq_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "FREQUENTLY ASKED QUESTIONS"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Have a question?"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "What is in the formula and how does it work?"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Temel bileşenler kapsaisin ve emilimi destekl"
+          },
+          {
+            "type": "textarea",
+            "id": "field_4",
+            "label": "Kapsaisin, biberlere acılığını veren doğal bi"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Kaynak sayfa, kullanımdan kısa süre sonra haf"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Consult your healthcare professional;"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "özellikle hamileyseniz, reflü veya ülseriniz "
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "When might I notice a difference?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_9",
+            "label": "Deneyimler kişiden kişiye değişir. Bazı kişil"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "When will my order arrive?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_11",
+            "label": "Siparişler ABD’deki tesisten 24 saat içinde t"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "How is the product tested?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_13",
+            "label": "Marka, ürünün FDA kayıtlı bir tesiste üretild"
+          },
+          {
+            "type": "textarea",
+            "id": "field_14",
+            "label": "Kullanımdan önce, özellikle hamileyseniz, emz"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Will it cause heartburn?"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Kapsaisinin toleransı kişiden kişiye değişir."
+          },
+          {
+            "type": "textarea",
+            "id": "field_17",
+            "label": "İlk kullanımda hafif sindirim rahatsızlığı ya"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-faq_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Will it leave a spicy taste in my mouth?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_1",
+            "label": "Yumuşak kapsül ağız ve boğazdan kapalı hâlde "
+          },
+          {
+            "type": "image_picker",
+            "id": "field_2",
+            "label": "Have a question?"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "limit": 1,
+    "presets": [
+      {
+        "name": "t:av.av-faq",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "FREQUENTLY ASKED QUESTIONS",
+              "field_1": "Have a question?",
+              "field_2": "What is in the formula and how does it work?",
+              "field_3": "The key ingredients are capsaicin and black pepper extract to support absorption.",
+              "field_4": "Capsaicin is the natural compound that gives peppers their heat. The black pepper extract in the formula is used to support absorption.",
+              "field_5": "The source page states that a mild feeling of warmth may be reported shortly after use.",
+              "field_6": "Consult your healthcare professional;",
+              "field_7": "especially if you are pregnant, have reflux or ulcers, or take blood thinners.",
+              "field_8": "When might I notice a difference?",
+              "field_9": "Experiences vary from person to person. Some people report changes in the first weeks, while others may use it for longer. The source page describes a regular routine of at least 10 weeks.",
+              "field_10": "When will my order arrive?",
+              "field_11": "Orders ship from the US facility within 24 hours with a tracking number. US delivery usually takes 3–6 business days.",
+              "field_12": "How is the product tested?",
+              "field_13": "The brand states that the product is made in an FDA-registered facility and independently lab tested for heavy metals and microbes.",
+              "field_14": "Consult your healthcare professional before use, especially if you are pregnant, breastfeeding, taking medication or have a medical condition.",
+              "field_15": "Will it cause heartburn?",
+              "field_16": "Capsaicin tolerance varies from person to person. Follow the instructions on the product label.",
+              "field_17": "Mild digestive discomfort may occur during initial use. If you have a history of reflux or ulcers, consult your healthcare professional before use."
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Will it leave a spicy taste in my mouth?",
+              "field_1": "The softgel is designed to pass through the mouth and throat intact. A spicy taste from the capsule itself is therefore not expected."
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Frequently asked questions"
+  },
+  "av-footer": {
+    "name": "t:av.av-footer",
+    "settings": [
+      {
+        "type": "link_list",
+        "id": "menu",
+        "label": "Mağaza menüsü"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-footer_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Aurivita store in preparation"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Store contact details"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Company"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Our product"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Contact"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Frequently asked questions"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Track your order"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Policies"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Terms of use"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Privacy policy"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Returns policy"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Shipping policy"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Subscriptions and cancellation"
+          },
+          {
+            "type": "textarea",
+            "id": "field_13",
+            "label": "† Bu ifadeler FDA tarafından değerlendirilmem"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "* Yorumlar kaynak sitedeki müşteri deneyimler"
+          },
+          {
+            "type": "textarea",
+            "id": "field_15",
+            "label": "‡ 120 gün para iade garantisi yalnızca ürün b"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "© 2026 Aurivita. All rights reserved."
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "English · US dollars (USD)"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-footer_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "field_0",
+            "label": "Aurivita"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "enabled_on": {
+      "groups": [
+        "footer"
+      ]
+    },
+    "title": "Aurivita alt alan"
+  },
+  "av-header": {
+    "name": "t:av.av-header",
+    "settings": [
+      {
+        "type": "link_list",
+        "id": "menu",
+        "label": "Mağaza menüsü"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-header_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Subscriptions:"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "FREE SHIPPING"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "120 DAYS"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "guarantee"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Aurivita"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Our product"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Ingredients and research"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Customer reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Contact"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Track your order"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Manage my subscription"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Shop"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Search"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "About us"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Shipping and returns"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Frequently asked questions"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Bundle selection guide"
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "Daily support for your wellness routine."
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-header_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "field_0",
+            "label": "Aurivita"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "enabled_on": {
+      "groups": [
+        "header"
+      ]
+    },
+    "title": "Aurivita üst alan"
+  },
+  "av-home-faq": {
+    "name": "t:av_home.faq",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün"
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "FREQUENTLY ASKED QUESTIONS"
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": "Your questions, answered."
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": "<p>Quick answers about bundles and shopping. Explore our guides for more detail.</p>"
+      },
+      {
+        "type": "page",
+        "id": "page",
+        "label": "Bağlı sayfa"
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": "All questions and answers"
+      },
+      {
+        "type": "textarea",
+        "id": "finish_heading",
+        "label": "Kapanış başlığı",
+        "default": "Size uygun seçeneği keşfedin."
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": "View product"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "question",
+        "name": "t:av_home.question",
+        "settings": [
+          {
+            "type": "text",
+            "id": "question",
+            "label": "Soru"
+          },
+          {
+            "type": "richtext",
+            "id": "answer",
+            "label": "Yanıt"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 8,
+    "presets": [
+      {
+        "name": "t:av_home.faq"
+      }
+    ],
+    "title": "AV · Ana sayfa SSS"
+  },
+  "av-home-hero": {
+    "name": "t:av_home.hero",
+    "limit": 1,
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün"
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "EXPLORE THE PRODUCT"
+      },
+      {
+        "type": "textarea",
+        "id": "heading",
+        "label": "Başlık",
+        "default": "Meet your new favorite."
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": "<p>Ürün ayrıntılarını keşfedin ve seçenekleri karşılaştırın.</p>"
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": "Explore the product"
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": "Compare bundles"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "fact",
+        "name": "t:av_home.fact",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık"
+          },
+          {
+            "type": "text",
+            "id": "text",
+            "label": "Açıklama"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "t:av_home.hero"
+      }
+    ],
+    "title": "AV · Ana sayfa açılışı"
+  },
+  "av-home-intro": {
+    "name": "t:av_home.intro",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün"
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "OUR PRODUCT"
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": "<p>Ürün ayrıntılarını ve mevcut seçenekleri inceleyin.</p>"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": "Get to know the product"
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": "Ingredient information"
+      },
+      {
+        "type": "page",
+        "id": "page",
+        "label": "Bağlı sayfa"
+      }
+    ],
+    "presets": [
+      {
+        "name": "t:av_home.intro"
+      }
+    ],
+    "title": "AV · Ürün tanıtımı"
+  },
+  "av-home-journal": {
+    "name": "t:av_home.journal",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "blog",
+        "id": "blog",
+        "label": "Blog"
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "REHBER"
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": "Before you choose."
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": "All articles"
+      },
+      {
+        "type": "range",
+        "id": "count",
+        "label": "Yazı sayısı",
+        "min": 1,
+        "max": 3,
+        "step": 1,
+        "default": 3
+      }
+    ],
+    "presets": [
+      {
+        "name": "t:av_home.journal"
+      }
+    ],
+    "title": "AV · Rehber yazıları"
+  },
+  "av-home-packages": {
+    "name": "t:av_home.packages",
+    "limit": 1,
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün"
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "CHOOSE YOUR BUNDLE"
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": "A bundle for your routine."
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": "<p>Mevcut seçenekleri ve güncel fiyatları karşılaştırın.</p>"
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": "Choose bundle"
+      },
+      {
+        "type": "text",
+        "id": "note",
+        "label": "Alt açıklama",
+        "default": "Displayed amounts are the total bundle price. Your selected bundle opens on the product page."
+      }
+    ],
+    "blocks": [
+      {
+        "type": "pack",
+        "name": "t:av_home.pack",
+        "settings": [
+          {
+            "type": "text",
+            "id": "pack_value",
+            "label": "Shopify paket seçeneği",
+            "default": "1 pack"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          },
+          {
+            "type": "checkbox",
+            "id": "featured",
+            "label": "Paketi öne çıkar",
+            "default": false
+          },
+          {
+            "type": "text",
+            "id": "badge",
+            "label": "Rozet metni",
+            "default": "Featured bundle"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "t:av_home.packages"
+      }
+    ],
+    "title": "AV · Paket seçenekleri"
+  },
+  "av-home-story": {
+    "name": "t:av_home.story",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": "MARKAMIZ"
+      },
+      {
+        "type": "textarea",
+        "id": "heading",
+        "label": "Başlık",
+        "default": "A simpler\ndaily routine."
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": "<p>Markamızı ve alışveriş koşullarını keşfedin.</p>"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "link",
+        "name": "t:av_home.info_card",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık"
+          },
+          {
+            "type": "textarea",
+            "id": "text",
+            "label": "Açıklama"
+          },
+          {
+            "type": "page",
+            "id": "page",
+            "label": "Bağlı sayfa"
+          },
+          {
+            "type": "url",
+            "id": "link",
+            "label": "Yedek bağlantı"
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Buton metni",
+            "default": "Daha fazla bilgi"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "t:av_home.story"
+      }
+    ],
+    "title": "AV · Marka tanıtımı"
+  },
+  "av-marquee": {
+    "name": "t:av.av-marquee",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-marquee_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Ingredients studied in research"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Long-term wellness"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Clean, quality formula"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Try it today"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "120-day money-back guarantee"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Ingredients studied in research"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Long-term wellness"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Clean, quality formula"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Try it today"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "120-day money-back guarantee"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 1,
+    "presets": [
+      {
+        "name": "t:av.av-marquee",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "Ingredients studied in research",
+              "field_1": "Long-term wellness",
+              "field_2": "Clean, quality formula",
+              "field_3": "Try it today",
+              "field_4": "120-day money-back guarantee",
+              "field_5": "Ingredients studied in research",
+              "field_6": "Long-term wellness",
+              "field_7": "Clean, quality formula",
+              "field_8": "Try it today",
+              "field_9": "120-day money-back guarantee"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Özellik şeridi"
+  },
+  "av-mechanism": {
+    "name": "t:av.av-mechanism",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-mechanism_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "HOW IT WORKS"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Supports your body's natural pathways"
+          },
+          {
+            "type": "textarea",
+            "id": "field_2",
+            "label": "Kapsaisinin damar iç yüzeyindeki TRPV1 resept"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Daily support for the body's natural processes."
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Supports nitric oxide production"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Supports a healthy inflammatory response"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Uses the body's natural pathways"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Small dose, effective absorption"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_8",
+            "label": "Supports your body's natural pathways"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_9",
+            "label": "Nitrik oksit üretimine destek†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_10",
+            "label": "Sağlıklı inflamatuvar yanıta destek†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_11",
+            "label": "Vücudun doğal yollarını kullanır†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_12",
+            "label": "Küçük doz, etkili emilim†"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 1,
+    "presets": [
+      {
+        "name": "t:av.av-mechanism",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "HOW IT WORKS",
+              "field_1": "Supports your body's natural pathways",
+              "field_2": "Capsaicin is thought to activate TRPV1 receptors in the blood vessel lining. Research links this pathway to natural nitric oxide production, which plays a role in healthy circulation.",
+              "field_3": "Daily support for the body's natural processes.",
+              "field_4": "Supports nitric oxide production",
+              "field_5": "Supports a healthy inflammatory response",
+              "field_6": "Uses the body's natural pathways",
+              "field_7": "Small dose, effective absorption"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Nasıl çalışır"
+  },
+  "av-page": {
+    "name": "t:names.page",
+    "settings": [
+      {
+        "type": "select",
+        "id": "layout",
+        "label": "Page layout",
+        "options": [
+          {
+            "value": "standard",
+            "label": "t:av_framework_settings.standard"
+          },
+          {
+            "value": "about",
+            "label": "t:av_framework_settings.about_page"
+          },
+          {
+            "value": "contact",
+            "label": "t:av_framework_settings.contact_page"
+          }
+        ],
+        "default": "standard"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }
+    ],
+    "title": "Page"
+  },
+  "av-problem": {
+    "name": "t:av.av-problem",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-problem_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "THE CHALLENGE"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Early signs of cardiovascular health"
+          },
+          {
+            "type": "textarea",
+            "id": "field_2",
+            "label": "Stres, beslenme ve günlük yaşam vücuttaki düş"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Inflammation"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Blood vessel lining"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "High blood pressure"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "High cholesterol"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Inflammation"
+          },
+          {
+            "type": "textarea",
+            "id": "field_8",
+            "label": "İnflamasyon, kalp ve damar riskinde rol oynar"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Ridker PM et al. NEJM, 1997; Sachdeva A et al"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Blood vessel lining"
+          },
+          {
+            "type": "textarea",
+            "id": "field_11",
+            "label": "Damarların iç yüzeyi zamanla nitrik oksit üre"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Bonetti PO, Lerman LO, Lerman A. ATVB, 2003."
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "High blood pressure"
+          },
+          {
+            "type": "textarea",
+            "id": "field_14",
+            "label": "Potasyum, kalsiyum, magnezyum, lif ve balık y"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Whelton PK, et al. 2017 ACC/AHA Hypertension "
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "High cholesterol"
+          },
+          {
+            "type": "textarea",
+            "id": "field_17",
+            "label": "Damar plağı, kolesterol testinde bir sorun gö"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-problem_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Libby P et al. Atherosclerosis. Nature Review"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_1",
+            "label": "İnflamasyon†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_2",
+            "label": "Damar iç yüzeyi†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_3",
+            "label": "Yüksek tansiyon†"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_4",
+            "label": "Yüksek kolesterol†"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "presets": [
+      {
+        "name": "t:av.av-problem",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "THE CHALLENGE",
+              "field_1": "Early signs of cardiovascular health",
+              "field_2": "Stress, diet and everyday life may contribute to low-grade inflammation in the body. Understanding its effects on vascular health matters.",
+              "field_3": "Inflammation",
+              "field_4": "Blood vessel lining",
+              "field_5": "High blood pressure",
+              "field_6": "High cholesterol",
+              "field_7": "Inflammation",
+              "field_8": "Inflammation plays a role in cardiovascular risk and can sometimes occur years before other signs. Research cited on the source page reports that some people who have had a heart attack had cholesterol levels within the normal range.",
+              "field_9": "Ridker PM et al. NEJM, 1997; Sachdeva A et al. American Heart Journal, 2009.",
+              "field_10": "Blood vessel lining",
+              "field_11": "Over time, the lining of blood vessels may lose its ability to produce nitric oxide. Nitric oxide is a signaling molecule that helps blood vessels relax.",
+              "field_12": "Bonetti PO, Lerman LO, Lerman A. ATVB, 2003.",
+              "field_13": "High blood pressure",
+              "field_14": "Low intake of potassium, calcium, magnesium, fiber and fish oils is among the dietary factors associated with blood pressure. A balanced diet contributes to maintaining healthy levels.",
+              "field_15": "Whelton PK, et al. 2017 ACC/AHA Hypertension Guideline. J Am Coll Cardiol. 2018;71(19):e127–e248.",
+              "field_16": "High cholesterol",
+              "field_17": "Arterial plaque can begin building up years before a cholesterol test reveals a problem. Alongside cholesterol levels, the health of the blood vessel lining also matters."
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Libby P et al. Atherosclerosis. Nature Reviews Disease Primers, 2019."
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Bilgi sekmeleri"
+  },
+  "av-product": {
+    "name": "t:av.av-product",
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-product_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "4.6 / 5.0 · Source product reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "4.6 / 5.0 · Source product reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Sağlıklı dolaşım, tansiyon ve kalp sağlığı iç"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "What are our customers saying?*"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "4.6 / 5.0 · Source product reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "4.6 / 5.0 · Source product reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Sağlıklı dolaşım, tansiyon ve kalp sağlığı iç"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Supports heart health"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Vücudun doğal nitrik oksit üretimini destekle"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Independently lab tested in the US"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Made in an FDA-registered facility"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Choose your servings:"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "30 servings"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "60 servings"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Choose your bundle:"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "1 pack"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Save 33%"
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "Buy 2, get 1 FREE"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-product_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Save 33%"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Most popular"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Buy 3, get 2 FREE"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Save 33%"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Best value"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "In stock"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "ready for same-day shipping"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "120-day money-back guarantee"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "About the product"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Damar sağlığını ve kan dolaşımını desteklemek"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Ingredients"
+          },
+          {
+            "type": "textarea",
+            "id": "field_11",
+            "label": "Porsiyon başına 3 mg kapsaisin; zerdeçal, alı"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "How to use"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Take 1 softgel daily with food and water."
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Shipping and returns"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "24 saat içinde kargoya verilir. Teslimat ABD’"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "We offer a 120-day money-back guarantee."
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "120-day guarantee"
+          }
+        ]
+      },
+      {
+        "type": "content_2",
+        "name": "t:av.av-product_content_2",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Four months to decide."
+          },
+          {
+            "type": "textarea",
+            "id": "field_1",
+            "label": "Aurivita’yı 120 gün deneyin. Memnun kalmazsan"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "What are our customers saying?*"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_3",
+            "label": "Görsel 1"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_4",
+            "label": "1 pack"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_5",
+            "label": "Buy 2, get 1 FREE"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_6",
+            "label": "Buy 3, get 2 FREE"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_7",
+            "label": "120 gün garanti‡"
+          },
+          {
+            "type": "video",
+            "id": "field_8",
+            "label": "Video 1"
+          },
+          {
+            "type": "video",
+            "id": "field_9",
+            "label": "Video 2"
+          },
+          {
+            "type": "video",
+            "id": "field_10",
+            "label": "Video 3"
+          },
+          {
+            "type": "video",
+            "id": "field_11",
+            "label": "Video 4"
+          },
+          {
+            "type": "video",
+            "id": "field_12",
+            "label": "Video 5"
+          },
+          {
+            "type": "video",
+            "id": "field_13",
+            "label": "Video 6"
+          }
+        ]
+      },
+      {
+        "type": "@app"
+      }
+    ],
+    "limit": 1,
+    "presets": [
+      {
+        "name": "t:av.av-product",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "4.6 / 5.0 · Source product reviews",
+              "field_1": "4.6 / 5.0 · Source product reviews",
+              "field_2": "Daily support for healthy circulation, blood pressure and heart health.",
+              "field_3": "What are our customers saying?*",
+              "field_4": "4.6 / 5.0 · Source product reviews",
+              "field_5": "4.6 / 5.0 · Source product reviews",
+              "field_6": "Daily support for healthy circulation, blood pressure and heart health.",
+              "field_7": "Supports heart health",
+              "field_8": "Supports the body's natural nitric oxide production",
+              "field_9": "Independently lab tested in the US",
+              "field_10": "Made in an FDA-registered facility",
+              "field_11": "Choose your servings:",
+              "field_12": "30 servings",
+              "field_13": "60 servings",
+              "field_14": "Choose your bundle:",
+              "field_15": "1 pack",
+              "field_16": "Save 33%",
+              "field_17": "Buy 2, get 1 FREE"
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Save 33%",
+              "field_1": "Most popular",
+              "field_2": "Buy 3, get 2 FREE",
+              "field_3": "Save 33%",
+              "field_4": "Best value",
+              "field_5": "In stock",
+              "field_6": "ready for same-day shipping",
+              "field_7": "120-day money-back guarantee",
+              "field_8": "About the product",
+              "field_9": "A daily cayenne pepper softgel developed to support vascular health and circulation.",
+              "field_10": "Ingredients",
+              "field_11": "3 mg of capsaicin per serving; turmeric, hawthorn, beetroot, cinnamon, berberine, ginseng, black pepper and vitamins D3, K2 and E.",
+              "field_12": "How to use",
+              "field_13": "Take 1 softgel daily with food and water.",
+              "field_14": "Shipping and returns",
+              "field_15": "Ships within 24 hours. Delivery takes 3–7 days in the US and 5–12 days internationally.",
+              "field_16": "We offer a 120-day money-back guarantee.",
+              "field_17": "120-day guarantee"
+            }
+          },
+          {
+            "type": "content_2",
+            "settings": {
+              "field_0": "Four months to decide.",
+              "field_1": "Try Aurivita for 120 days. If you are not satisfied, we refund the product price. According to the brand, fewer than 0.5% of customers request a refund.",
+              "field_2": "What are our customers saying?*"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Aurivita ürün"
+  },
+  "av-reviews": {
+    "name": "t:av.av-reviews",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-reviews_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Over 20,000 happy customers*"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "What do customers notice first?*"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Doğrulanmış müşterilerimizin sıcaklık, enerji"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Rating: 4.9 / 5.0"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Fits easily into my routine"
+          },
+          {
+            "type": "textarea",
+            "id": "field_5",
+            "label": "“Natto ve başka takviyeler de kullanıyorum. B"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Gary Neumann"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "April 30"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Rating: 4.7 / 5.0"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Sensitive stomach"
+          },
+          {
+            "type": "textarea",
+            "id": "field_11",
+            "label": "“Midem hassas olduğu için yanma yapmasından k"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Dylan Webb"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "June 26"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "Rating: 5.0 / 5.0"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "No spicy taste"
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "“Hafif bir sıcaklık hissediyorum ama acı bir "
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-reviews_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Rob Moore"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "July 2"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Rating: 4.9 / 5.0"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "More balanced energy"
+          },
+          {
+            "type": "textarea",
+            "id": "field_5",
+            "label": "“Yaklaşık iki hafta sonra ellerim ve ayakları"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Karen Ibsen"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "June 11"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_9",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_10",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_11",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_12",
+            "label": "Aurivita Cayenne Pepper"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "limit": 1,
+    "presets": [
+      {
+        "name": "t:av.av-reviews",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "Over 20,000 happy customers*",
+              "field_1": "What do customers notice first?*",
+              "field_2": "Our verified customers share their experiences of warmth, energy and daily routines.*",
+              "field_3": "Rating: 4.9 / 5.0",
+              "field_4": "Fits easily into my routine",
+              "field_5": "“I also take natto and other supplements. I added these capsules to my routine six weeks ago and have had no problems.”*",
+              "field_6": "Gary Neumann",
+              "field_7": "Aurivita Cayenne Pepper",
+              "field_8": "April 30",
+              "field_9": "Rating: 4.7 / 5.0",
+              "field_10": "Sensitive stomach",
+              "field_11": "“I was worried about burning because my stomach is sensitive. I have used it for two months without reflux or stomach problems.”*",
+              "field_12": "Dylan Webb",
+              "field_13": "Aurivita Cayenne Pepper",
+              "field_14": "June 26",
+              "field_15": "Rating: 5.0 / 5.0",
+              "field_16": "No spicy taste",
+              "field_17": "“I feel a gentle warmth, but there is no spicy taste. There is no burning or pepper taste in my mouth.”*"
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Rob Moore",
+              "field_1": "Aurivita Cayenne Pepper",
+              "field_2": "July 2",
+              "field_3": "Rating: 4.9 / 5.0",
+              "field_4": "More balanced energy",
+              "field_5": "“After about two weeks, I noticed that my hands and feet were not constantly cold. Taking it with food fits easily into my daily routine.”*",
+              "field_6": "Karen Ibsen",
+              "field_7": "Aurivita Cayenne Pepper",
+              "field_8": "June 11"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Müşteri deneyimleri"
+  },
+  "av-routine": {
+    "name": "t:av.av-routine",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-routine_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "DAILY ROUTINE"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Easy to add to your day"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Kaynak sayfadaki rutin: günde 2–3 kez bir kap"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "ADIM 1"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "With breakfast"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Kaynak sayfa, ilk kapsülün sabah yemekle birl"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "ADIM 2"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "With lunch"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Kaynak sayfa, ikinci kapsülün öğle yemeğiyle "
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "ADIM 3"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "With dinner"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Kaynak sayfa, üçüncü kapsülün akşam yemekle b"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Kullanım miktarı için ürün etiketini ve sağlı"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_13",
+            "label": "With breakfast"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_14",
+            "label": "With lunch"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_15",
+            "label": "With dinner"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 1,
+    "presets": [
+      {
+        "name": "t:av.av-routine",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "DAILY ROUTINE",
+              "field_1": "Easy to add to your day",
+              "field_2": "Source page routine: one capsule 2–3 times a day",
+              "field_3": "ADIM 1",
+              "field_4": "With breakfast",
+              "field_5": "The source page suggests taking the first capsule with food in the morning.",
+              "field_6": "ADIM 2",
+              "field_7": "With lunch",
+              "field_8": "The source page suggests taking the second capsule with lunch.",
+              "field_9": "ADIM 3",
+              "field_10": "With dinner",
+              "field_11": "The source page suggests taking the third capsule with dinner.",
+              "field_12": "Follow the product label and your healthcare professional's advice for dosage. Regular use matters."
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Günlük rutin"
+  },
+  "av-science": {
+    "name": "t:av.av-science",
+    "settings": [
+      {
+        "type": "url",
+        "id": "content_link_0",
+        "label": "Araştırma bağlantısı 1",
+        "default": "https://linkinghub.elsevier.com/retrieve/pii/S0735109719382063"
+      },
+      {
+        "type": "url",
+        "id": "content_link_1",
+        "label": "Araştırma bağlantısı 2",
+        "default": "https://www.ahajournals.org/doi/10.1161/01.ATV.0000051384.43104.FC"
+      },
+      {
+        "type": "url",
+        "id": "content_link_2",
+        "label": "Araştırma bağlantısı 3",
+        "default": "https://www.ahajournals.org/doi/10.1161/01.ATV.0000051384.43104.FC"
+      },
+      {
+        "type": "url",
+        "id": "content_link_3",
+        "label": "Araştırma bağlantısı 4",
+        "default": "https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.121.18778"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-science_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Ingredients and research"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Aurivita Capsaicin Power nedir?"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Doğal nitrik oksit üretimini desteklemek üzer"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Porsiyon başına 3 mg kapsaisin içeren yumuşak"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Which studies are referenced?"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Kaynak sayfada dört hakemli araştırma yer alı"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Mortality risk"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Read the research"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Tansiyon"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Read the research"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Vascular health"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Read the research"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Arterial health"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Read the research"
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Why capsaicin for circulation?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_15",
+            "label": "Kapsaisinin damar iç yüzeyindeki TRPV1 resept"
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "How is it made and tested?"
+          },
+          {
+            "type": "textarea",
+            "id": "field_17",
+            "label": "Markanın beyanına göre FDA kayıtlı bir tesist"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-science_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "textarea",
+            "id": "field_0",
+            "label": "Özellikle hamilelik, emzirme, ilaç veya kan s"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "|"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "What if I am not satisfied?"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "You are covered by a 120-day money-back guarantee."
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Dört ay deneyin. Memnun kalmazsanız ürün bede"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Marka verilerine göre müşterilerin %0,5’inden"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_6",
+            "label": "How is it made and tested?"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "limit": 1,
+    "presets": [
+      {
+        "name": "t:av.av-science",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "Ingredients and research",
+              "field_1": "Aurivita Capsaicin Power nedir?",
+              "field_2": "A daily cayenne pepper softgel developed to support natural nitric oxide production.",
+              "field_3": "Softgels with 3 mg of capsaicin per serving.",
+              "field_4": "Which studies are referenced?",
+              "field_5": "The source page references four peer-reviewed studies:",
+              "field_6": "Mortality risk",
+              "field_7": "Read the research",
+              "field_8": "Tansiyon",
+              "field_9": "Read the research",
+              "field_10": "Vascular health",
+              "field_11": "Read the research",
+              "field_12": "Arterial health",
+              "field_13": "Read the research",
+              "field_14": "Why capsaicin for circulation?",
+              "field_15": "Capsaicin is thought to activate TRPV1 receptors in the blood vessel lining. This pathway is associated with the body's own nitric oxide production.",
+              "field_16": "How is it made and tested?",
+              "field_17": "According to the brand, it is made to GMP standards in an FDA-registered facility and independently lab tested for heavy metals and microbes."
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {
+              "field_0": "Consult your healthcare professional before use, especially during pregnancy or breastfeeding, when taking medication or blood thinners, or if you have reflux or ulcers.",
+              "field_1": "|",
+              "field_2": "What if I am not satisfied?",
+              "field_3": "You are covered by a 120-day money-back guarantee.",
+              "field_4": "Try it for four months. If you are not satisfied, you can request a refund of the product price.",
+              "field_5": "According to the brand, fewer than 0.5% of customers request a refund."
+            }
+          }
+        ]
+      }
+    ],
+    "title": "İçerikler ve araştırma"
+  },
+  "av-stats": {
+    "name": "t:av.av-stats",
+    "settings": [
+      {
+        "type": "text",
+        "id": "stats_percentage",
+        "label": "İlk bilgi kartı değeri",
+        "default": "50%"
+      },
+      {
+        "type": "text",
+        "id": "stats_minutes",
+        "label": "Kapsül sayısı",
+        "default": "60"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-stats_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "WHAT YOU NEED TO KNOW"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Details matter"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Information highlighted on the source page."
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Sachdeva, 2009"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "kalp krizi geçiren kişilerde normal görünen k"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Libby, 2019"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "10–20 years"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "damar plağının belirti vermeden birikebildiği"
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Van Der Wardt, 2017"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Many people"
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "ilaç bırakıldıktan sonraki aylarda yeniden yü"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Less than 0.5%"
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "marka verilerine göre iade isteyen müşteri or"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "softgels per pack; 30 servings."
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "24+ hours"
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "kaynak sayfada belirtilen günlük destek süres"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_16",
+            "label": "Bilgi kartı arka planı 1"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_17",
+            "label": "Bilgi kartı arka planı 2"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-stats_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "field_0",
+            "label": "Bilgi kartı arka planı 3"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_1",
+            "label": "Bilgi kartı arka planı 4"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_2",
+            "label": "Bilgi kartı arka planı 5"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_3",
+            "label": "Bilgi kartı arka planı 6"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "presets": [
+      {
+        "name": "t:av.av-stats",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "WHAT YOU NEED TO KNOW",
+              "field_1": "Details matter",
+              "field_2": "Information highlighted on the source page.",
+              "field_3": "Sachdeva, 2009",
+              "field_4": "apparently normal cholesterol levels in people who have had a heart attack. Source: Sachdeva, 2009.",
+              "field_5": "Libby, 2019",
+              "field_6": "10–20 years",
+              "field_7": "the time during which arterial plaque may build up without symptoms.",
+              "field_8": "Van Der Wardt, 2017",
+              "field_9": "Many people",
+              "field_10": "may experience high blood pressure again in the months after stopping medication.",
+              "field_11": "Less than 0.5%",
+              "field_12": "the proportion of customers requesting refunds, according to the brand.",
+              "field_13": "softgels per pack; 30 servings.",
+              "field_14": "24+ hours",
+              "field_15": "the daily support period stated on the source page."
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {}
+          }
+        ]
+      }
+    ],
+    "title": "Bilgi kartları"
+  },
+  "av-sticky": {
+    "name": "t:av.av-sticky",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-sticky_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "4.6 / 5.0 · Source product reviews"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Aurivita Cayenne Pepper"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "In stock"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "ready for same-day shipping"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Add to cart"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_5",
+            "label": "Aurivita Cayenne Pepper"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 1,
+    "limit": 1,
+    "presets": [
+      {
+        "name": "t:av.av-sticky",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "4.6 / 5.0 · Source product reviews",
+              "field_1": "Aurivita Cayenne Pepper",
+              "field_2": "In stock",
+              "field_3": "ready for same-day shipping",
+              "field_4": "Add to cart"
+            }
+          }
+        ]
+      }
+    ],
+    "title": "Sabit satın alma"
+  },
+  "av-timeline": {
+    "name": "t:av.av-timeline",
+    "settings": [],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-timeline_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "TIMELINE"
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "What to expect over time"
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Kaynak sayfada paylaşılan tahmini kullanım sü"
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Week 1"
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Week 2"
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "Week 6"
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Week 10 and beyond"
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Your body meets capsaicin."
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Kullanımın ilk döneminde hafif bir sıcaklık h"
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "A daily routine takes shape."
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Kaynak sayfa bu dönemi, düzenli kullanımın gü"
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Regular use continues."
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "Deneyimler kişiden kişiye değişir. Kaynak say"
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Review your experience."
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Kaynak sayfa, uzun süreli kullanımdan sonra d"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_15",
+            "label": "Week 1"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_16",
+            "label": "Week 2"
+          },
+          {
+            "type": "image_picker",
+            "id": "field_17",
+            "label": "Week 6"
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-timeline_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "field_0",
+            "label": "Week 10 and beyond"
+          }
+        ]
+      }
+    ],
+    "max_blocks": 2,
+    "presets": [
+      {
+        "name": "t:av.av-timeline",
+        "blocks": [
+          {
+            "type": "content_0",
+            "settings": {
+              "field_0": "TIMELINE",
+              "field_1": "What to expect over time",
+              "field_2": "An estimated usage timeline shared on the source page. Individual experiences may vary.",
+              "field_3": "Week 1",
+              "field_4": "Week 2",
+              "field_5": "Week 6",
+              "field_6": "Week 10 and beyond",
+              "field_7": "Your body meets capsaicin.",
+              "field_8": "A mild feeling of warmth may occur during the initial period of use.",
+              "field_9": "A daily routine takes shape.",
+              "field_10": "The source page describes this period as the stage when regular use becomes part of a daily routine.",
+              "field_11": "Regular use continues.",
+              "field_12": "Experiences vary from person to person. The source page recommends continuing the daily routine at this stage.",
+              "field_13": "Review your experience.",
+              "field_14": "The source page recommends reviewing the experience after extended use. Results are not guaranteed."
+            }
+          },
+          {
+            "type": "content_1",
+            "settings": {}
+          }
+        ]
+      }
+    ],
+    "title": "Zaman çizelgesi"
+  }
+}

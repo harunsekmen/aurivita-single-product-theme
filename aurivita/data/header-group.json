@@ -1,0 +1,46 @@
+{
+  "type": "header",
+  "name": "header",
+  "sections": {
+    "header": {
+      "type": "av-header",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Subscriptions:",
+            "field_1": "FREE SHIPPING",
+            "field_2": "120 DAYS",
+            "field_3": "guarantee",
+            "field_4": "Aurivita",
+            "field_5": "Our product",
+            "field_6": "Ingredients and research",
+            "field_7": "Customer reviews",
+            "field_8": "Contact",
+            "field_9": "Track your order",
+            "field_10": "Manage my subscription",
+            "field_11": "Shop",
+            "field_12": "Search",
+            "field_13": "About us",
+            "field_14": "Shipping and returns",
+            "field_15": "Frequently asked questions",
+            "field_16": "Bundle selection guide",
+            "field_17": "Daily support for your wellness routine."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "header"
+  ]
+}

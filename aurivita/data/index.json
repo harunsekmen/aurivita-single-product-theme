@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "home_hero": {
+      "type": "av-home-hero",
+      "settings": {
+        "eyebrow": "AURIVITA · DAILY ROUTINE",
+        "heading": "One small step.\nA new routine.",
+        "copy": "<p>Meet Aurivita Cayenne Pepper. Explore serving sizes and bundles, and choose the option that suits you.</p>",
+        "button": "Explore the product",
+        "secondary": "Compare bundles",
+        "product": "aurivita-cayenne-pepper"
+      },
+      "blocks": {
+        "hero_1": {
+          "type": "fact",
+          "settings": {
+            "title": "30 / 60 servings",
+            "text": "Two serving options"
+          }
+        },
+        "hero_2": {
+          "type": "fact",
+          "settings": {
+            "title": "1, 3 or 5 packs",
+            "text": "Bundles for your routine"
+          }
+        },
+        "hero_3": {
+          "type": "fact",
+          "settings": {
+            "title": "One-time purchase",
+            "text": "No subscription required"
+          }
+        }
+      },
+      "block_order": [
+        "hero_1",
+        "hero_2",
+        "hero_3"
+      ]
+    },
+    "home_intro": {
+      "type": "av-home-intro",
+      "settings": {
+        "eyebrow": "OUR PRODUCT",
+        "copy": "<p>One product, different bundles. Get to know Aurivita Cayenne Pepper and explore product details, serving sizes and bundle prices in one place.</p>",
+        "button": "Get to know the product",
+        "secondary": "Ingredient information",
+        "product": "aurivita-cayenne-pepper",
+        "page": "icerikler"
+      }
+    },
+    "home_packages": {
+      "type": "av-home-packages",
+      "settings": {
+        "eyebrow": "CHOOSE YOUR BUNDLE",
+        "heading": "A bundle for your routine.",
+        "copy": "<p>Choose your serving size first, then compare the bundles.</p>",
+        "button": "Choose bundle",
+        "note": "Displayed amounts are the total bundle price. Your selected bundle opens on the product page.",
+        "product": "aurivita-cayenne-pepper"
+      },
+      "blocks": {
+        "packages_1": {
+          "type": "pack",
+          "settings": {
+            "pack_value": "1 pack",
+            "featured": false,
+            "badge": "Featured bundle",
+            "title": "1 pack"
+          }
+        },
+        "packages_2": {
+          "type": "pack",
+          "settings": {
+            "pack_value": "3 packs",
+            "featured": true,
+            "badge": "Featured bundle",
+            "title": "Buy 2, get 1 free"
+          }
+        },
+        "packages_3": {
+          "type": "pack",
+          "settings": {
+            "pack_value": "5 packs",
+            "featured": false,
+            "badge": "Featured bundle",
+            "title": "Buy 3, get 2 free"
+          }
+        }
+      },
+      "block_order": [
+        "packages_1",
+        "packages_2",
+        "packages_3"
+      ]
+    },
+    "home_story": {
+      "type": "av-home-story",
+      "settings": {
+        "eyebrow": "MEET AURIVITA",
+        "heading": "A simpler\ndaily routine.",
+        "copy": "<p>Everything you need to get to know Aurivita, the product and your shopping options. Explore, compare and make your own choice.</p>"
+      },
+      "blocks": {
+        "story_1": {
+          "type": "link",
+          "settings": {
+            "button": "About us",
+            "title": "Our brand",
+            "text": "Get to know our brand and the Aurivita approach.",
+            "link": "/pages/hakkimizda"
+          }
+        },
+        "story_2": {
+          "type": "link",
+          "settings": {
+            "button": "Explore ingredients",
+            "title": "Product information",
+            "text": "Review the ingredients, product label and usage information.",
+            "link": "/pages/icerikler"
+          }
+        },
+        "story_3": {
+          "type": "link",
+          "settings": {
+            "button": "Shipping and returns",
+            "title": "Shopping guide",
+            "text": "Find information about bundle selection, shipping and returns.",
+            "link": "/pages/kargo-ve-iade"
+          }
+        }
+      },
+      "block_order": [
+        "story_1",
+        "story_2",
+        "story_3"
+      ]
+    },
+    "home_journal": {
+      "type": "av-home-journal",
+      "settings": {
+        "eyebrow": "AURIVITA GUIDE",
+        "heading": "Before you choose.",
+        "button": "All articles",
+        "count": 3,
+        "blog": "rehber"
+      }
+    },
+    "home_faq": {
+      "type": "av-home-faq",
+      "settings": {
+        "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+        "heading": "Your questions, answered.",
+        "copy": "<p>Quick answers about bundles and shopping. Explore our guides for more detail.</p>",
+        "secondary": "All questions and answers",
+        "finish_heading": "Choose your bundle.\nDiscover Aurivita.",
+        "button": "View product",
+        "product": "aurivita-cayenne-pepper",
+        "page": "sss"
+      },
+      "blocks": {
+        "faq_1": {
+          "type": "question",
+          "settings": {
+            "question": "What bundle options are available?",
+            "answer": "<p>Aurivita Cayenne Pepper comes in 30 and 60 servings, each with 1, 3 and 5-pack options.</p>"
+          }
+        },
+        "faq_2": {
+          "type": "question",
+          "settings": {
+            "question": "How is bundle pricing calculated?",
+            "answer": "<p>The displayed price is the total for your selected bundle. For example, a cart quantity of one for the 3-pack option means one bundle containing three packs.</p>"
+          }
+        },
+        "faq_3": {
+          "type": "question",
+          "settings": {
+            "question": "Abonelik gerekiyor mu?",
+            "answer": "<p>No. The current bundles are one-time purchases and do not require a subscription.</p>"
+          }
+        },
+        "faq_4": {
+          "type": "question",
+          "settings": {
+            "question": "Kargo ve iade bilgilerini nereden bulabilirim?",
+            "answer": "<p><a href=\"/pages/kargo-ve-iade\">Kargo ve iade</a> sayfasında mevcut bilgileri inceleyebilirsiniz. Diğer sorularınız için <a href=\"/pages/iletisim\">iletişim</a> sayfamızı ziyaret edin.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_1",
+        "faq_2",
+        "faq_3",
+        "faq_4"
+      ]
+    },
+    "av-science": {
+      "type": "av-science",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Ingredients and research",
+            "field_1": "Aurivita Capsaicin Power nedir?",
+            "field_2": "A daily cayenne pepper softgel developed to support natural nitric oxide production.",
+            "field_3": "Softgels with 3 mg of capsaicin per serving.",
+            "field_4": "Which studies are referenced?",
+            "field_5": "The source page references four peer-reviewed studies:",
+            "field_6": "Mortality risk",
+            "field_7": "Read the research",
+            "field_8": "Tansiyon",
+            "field_9": "Read the research",
+            "field_10": "Vascular health",
+            "field_11": "Read the research",
+            "field_12": "Arterial health",
+            "field_13": "Read the research",
+            "field_14": "Why capsaicin for circulation?",
+            "field_15": "Capsaicin is thought to activate TRPV1 receptors in the blood vessel lining. This pathway is associated with the body's own nitric oxide production.",
+            "field_16": "How is it made and tested?",
+            "field_17": "According to the brand, it is made to GMP standards in an FDA-registered facility and independently lab tested for heavy metals and microbes."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Consult your healthcare professional before use, especially during pregnancy or breastfeeding, when taking medication or blood thinners, or if you have reflux or ulcers.",
+            "field_1": "|",
+            "field_2": "What if I am not satisfied?",
+            "field_3": "You are covered by a 120-day money-back guarantee.",
+            "field_4": "Try it for four months. If you are not satisfied, you can request a refund of the product price.",
+            "field_5": "According to the brand, fewer than 0.5% of customers request a refund."
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "home_hero",
+    "home_intro",
+    "home_packages",
+    "home_story",
+    "home_journal",
+    "home_faq",
+    "av-science"
+  ]
+}

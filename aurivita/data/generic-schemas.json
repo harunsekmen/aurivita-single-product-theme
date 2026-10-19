@@ -1,0 +1,1590 @@
+{
+  "av-compare": {
+    "title": "Karşılaştırma",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-compare",
+        "blocks": []
+      }
+    ]
+  },
+  "av-faq": {
+    "title": "Frequently asked questions",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-faq",
+        "blocks": []
+      }
+    ]
+  },
+  "av-home-faq": {
+    "name": "t:av_home.faq",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "page",
+        "id": "page",
+        "label": "Bağlı sayfa",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": ""
+      },
+      {
+        "type": "textarea",
+        "id": "finish_heading",
+        "label": "Kapanış başlığı",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "question",
+        "name": "t:av_home.question",
+        "settings": [
+          {
+            "type": "text",
+            "id": "question",
+            "label": "Soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "answer",
+            "label": "Yanıt",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "max_blocks": 8,
+    "presets": [
+      {
+        "name": "AV · Ana sayfa SSS",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Ana sayfa SSS"
+  },
+  "av-home-hero": {
+    "name": "t:av_home.hero",
+    "limit": 1,
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "textarea",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "fact",
+        "name": "t:av_home.fact",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "text",
+            "label": "Açıklama",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "AV · Ana sayfa açılışı",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Ana sayfa açılışı"
+  },
+  "av-home-intro": {
+    "name": "t:av_home.intro",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "secondary",
+        "label": "İkincil bağlantı metni",
+        "default": ""
+      },
+      {
+        "type": "page",
+        "id": "page",
+        "label": "Bağlı sayfa",
+        "default": ""
+      }
+    ],
+    "presets": [
+      {
+        "name": "AV · Ürün tanıtımı",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Ürün tanıtımı"
+  },
+  "av-home-journal": {
+    "name": "t:av_home.journal",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "blog",
+        "id": "blog",
+        "label": "Blog",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": ""
+      },
+      {
+        "type": "range",
+        "id": "count",
+        "label": "Yazı sayısı",
+        "min": 1,
+        "max": 3,
+        "step": 1,
+        "default": 3
+      }
+    ],
+    "presets": [
+      {
+        "name": "AV · Rehber yazıları",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Rehber yazıları"
+  },
+  "av-home-packages": {
+    "name": "t:av_home.packages",
+    "limit": 1,
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "button",
+        "label": "Buton metni",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "note",
+        "label": "Alt açıklama",
+        "default": ""
+      },
+      {
+        "type": "range",
+        "id": "option_count",
+        "label": "Gösterilecek seçenek sayısı",
+        "min": 1,
+        "max": 12,
+        "step": 1,
+        "default": 6
+      }
+    ],
+    "blocks": [
+      {
+        "type": "pack",
+        "name": "t:av_home.pack",
+        "settings": [
+          {
+            "type": "text",
+            "id": "pack_value",
+            "label": "Shopify paket seçeneği",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "checkbox",
+            "id": "featured",
+            "label": "Paketi öne çıkar",
+            "default": false
+          },
+          {
+            "type": "text",
+            "id": "badge",
+            "label": "Rozet metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "AV · Paket seçenekleri",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Paket seçenekleri"
+  },
+  "av-home-story": {
+    "name": "t:av_home.story",
+    "disabled_on": {
+      "groups": [
+        "header",
+        "footer"
+      ]
+    },
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "textarea",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "link",
+        "name": "t:av_home.info_card",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık",
+            "default": ""
+          },
+          {
+            "type": "textarea",
+            "id": "text",
+            "label": "Açıklama",
+            "default": ""
+          },
+          {
+            "type": "page",
+            "id": "page",
+            "label": "Bağlı sayfa",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "link",
+            "label": "Yedek bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Buton metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "max_blocks": 3,
+    "presets": [
+      {
+        "name": "AV · Marka tanıtımı",
+        "blocks": []
+      }
+    ],
+    "title": "AV · Marka tanıtımı"
+  },
+  "av-marquee": {
+    "title": "Duyuru bölümü",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-marquee",
+        "blocks": []
+      }
+    ]
+  },
+  "av-mechanism": {
+    "title": "Product features",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-mechanism",
+        "blocks": []
+      }
+    ]
+  },
+  "av-page": {
+    "name": "t:names.page",
+    "settings": [
+      {
+        "type": "select",
+        "id": "layout",
+        "label": "Page layout",
+        "options": [
+          {
+            "value": "standard",
+            "label": "t:av_framework_settings.standard"
+          },
+          {
+            "value": "about",
+            "label": "t:av_framework_settings.about_page"
+          },
+          {
+            "value": "contact",
+            "label": "t:av_framework_settings.contact_page"
+          }
+        ],
+        "default": "standard"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image",
+        "default": ""
+      }
+    ],
+    "title": "Page",
+    "presets": [
+      {
+        "name": "Page",
+        "blocks": []
+      }
+    ]
+  },
+  "av-problem": {
+    "title": "İhtiyaç ve çözüm",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-problem",
+        "blocks": []
+      }
+    ]
+  },
+  "av-product": {
+    "name": "t:av.av-product",
+    "settings": [
+      {
+        "type": "product",
+        "id": "product",
+        "label": "Ürün",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "content_0",
+        "name": "t:av.av-product_content_0",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "4.6 / 5.0 · Source product reviews",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "4.6 / 5.0 · Source product reviews",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Sağlıklı dolaşım, tansiyon ve kalp sağlığı iç",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "What are our customers saying?*",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "4.6 / 5.0 · Source product reviews",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "4.6 / 5.0 · Source product reviews",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "Sağlıklı dolaşım, tansiyon ve kalp sağlığı iç",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "Supports heart health",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "Vücudun doğal nitrik oksit üretimini destekle",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Independently lab tested in the US",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Made in an FDA-registered facility",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_11",
+            "label": "Choose your servings:",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "30 servings",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "60 servings",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Choose your bundle:",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "1 pack",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "Save 33%",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "Buy 2, get 1 FREE",
+            "default": ""
+          }
+        ]
+      },
+      {
+        "type": "content_1",
+        "name": "t:av.av-product_content_1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Save 33%",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_1",
+            "label": "Most popular",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "Buy 3, get 2 FREE",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_3",
+            "label": "Save 33%",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_4",
+            "label": "Best value",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_5",
+            "label": "In stock",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_6",
+            "label": "ready for same-day shipping",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_7",
+            "label": "120-day money-back guarantee",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_8",
+            "label": "About the product",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_9",
+            "label": "Damar sağlığını ve kan dolaşımını desteklemek",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_10",
+            "label": "Ingredients",
+            "default": ""
+          },
+          {
+            "type": "textarea",
+            "id": "field_11",
+            "label": "Porsiyon başına 3 mg kapsaisin; zerdeçal, alı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_12",
+            "label": "How to use",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_13",
+            "label": "Take 1 softgel daily with food and water.",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_14",
+            "label": "Shipping and returns",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_15",
+            "label": "24 saat içinde kargoya verilir. Teslimat ABD’",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_16",
+            "label": "We offer a 120-day money-back guarantee.",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_17",
+            "label": "120-day guarantee",
+            "default": ""
+          }
+        ]
+      },
+      {
+        "type": "content_2",
+        "name": "t:av.av-product_content_2",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "field_0",
+            "label": "Four months to decide.",
+            "default": ""
+          },
+          {
+            "type": "textarea",
+            "id": "field_1",
+            "label": "Aurivita’yı 120 gün deneyin. Memnun kalmazsan",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "field_2",
+            "label": "What are our customers saying?*",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "field_3",
+            "label": "Görsel 1",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "field_4",
+            "label": "1 pack",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "field_5",
+            "label": "Buy 2, get 1 FREE",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "field_6",
+            "label": "Buy 3, get 2 FREE",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "field_7",
+            "label": "120 gün garanti‡",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_8",
+            "label": "Video 1",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_9",
+            "label": "Video 2",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_10",
+            "label": "Video 3",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_11",
+            "label": "Video 4",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_12",
+            "label": "Video 5",
+            "default": ""
+          },
+          {
+            "type": "video",
+            "id": "field_13",
+            "label": "Video 6",
+            "default": ""
+          }
+        ]
+      },
+      {
+        "type": "@app"
+      }
+    ],
+    "limit": 1,
+    "presets": [
+      {
+        "name": "Aurivita ürün",
+        "blocks": []
+      }
+    ],
+    "title": "Aurivita ürün"
+  },
+  "av-reviews": {
+    "title": "Customer reviews",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-reviews",
+        "blocks": []
+      }
+    ]
+  },
+  "av-routine": {
+    "title": "Kullanım adımları",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-routine",
+        "blocks": []
+      }
+    ]
+  },
+  "av-science": {
+    "title": "Ayrıntılı bilgi",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-science",
+        "blocks": []
+      }
+    ]
+  },
+  "av-stats": {
+    "title": "Öne çıkan bilgiler",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-stats",
+        "blocks": []
+      }
+    ]
+  },
+  "av-sticky": {
+    "title": "Sabit ürün bağlantısı",
+    "settings": [
+      {
+        "id": "button",
+        "type": "text",
+        "label": "Buton metni",
+        "default": "View product"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Sabit ürün bağlantısı",
+        "blocks": []
+      }
+    ]
+  },
+  "av-timeline": {
+    "title": "Zaman çizelgesi",
+    "settings": [
+      {
+        "type": "text",
+        "id": "eyebrow",
+        "label": "Üst başlık",
+        "default": ""
+      },
+      {
+        "type": "text",
+        "id": "heading",
+        "label": "Başlık",
+        "default": ""
+      },
+      {
+        "type": "richtext",
+        "id": "copy",
+        "label": "Açıklama",
+        "default": ""
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Bölüm görseli",
+        "default": ""
+      }
+    ],
+    "blocks": [
+      {
+        "type": "card",
+        "name": "İçerik kartı",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Başlık / soru",
+            "default": ""
+          },
+          {
+            "type": "richtext",
+            "id": "text",
+            "label": "Metin / yanıt",
+            "default": ""
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "default": ""
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "Bağlantı",
+            "default": ""
+          },
+          {
+            "type": "text",
+            "id": "button",
+            "label": "Bağlantı metni",
+            "default": ""
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "av-timeline",
+        "blocks": []
+      }
+    ]
+  }
+}

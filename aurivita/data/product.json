@@ -1,0 +1,483 @@
+{
+  "sections": {
+    "product": {
+      "type": "av-product",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "4.6 / 5.0 · Source product reviews",
+            "field_1": "4.6 / 5.0 · Source product reviews",
+            "field_2": "Daily support for healthy circulation, blood pressure and heart health.",
+            "field_3": "What are our customers saying?*",
+            "field_4": "4.6 / 5.0 · Source product reviews",
+            "field_5": "4.6 / 5.0 · Source product reviews",
+            "field_6": "Daily support for healthy circulation, blood pressure and heart health.",
+            "field_7": "Supports heart health",
+            "field_8": "Supports the body's natural nitric oxide production",
+            "field_9": "Independently lab tested in the US",
+            "field_10": "Made in an FDA-registered facility",
+            "field_11": "Choose your servings:",
+            "field_12": "30 servings",
+            "field_13": "60 servings",
+            "field_14": "Choose your bundle:",
+            "field_15": "1 pack",
+            "field_16": "Save 33%",
+            "field_17": "Buy 2, get 1 FREE"
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Save 33%",
+            "field_1": "Most popular",
+            "field_2": "Buy 3, get 2 FREE",
+            "field_3": "Save 33%",
+            "field_4": "Best value",
+            "field_5": "In stock",
+            "field_6": "ready for same-day shipping",
+            "field_7": "120-day money-back guarantee",
+            "field_8": "About the product",
+            "field_9": "A daily cayenne pepper softgel developed to support vascular health and circulation.",
+            "field_10": "Ingredients",
+            "field_11": "3 mg of capsaicin per serving; turmeric, hawthorn, beetroot, cinnamon, berberine, ginseng, black pepper and vitamins D3, K2 and E.",
+            "field_12": "How to use",
+            "field_13": "Take 1 softgel daily with food and water.",
+            "field_14": "Shipping and returns",
+            "field_15": "Ships within 24 hours. Delivery takes 3–7 days in the US and 5–12 days internationally.",
+            "field_16": "We offer a 120-day money-back guarantee.",
+            "field_17": "120-day guarantee"
+          }
+        },
+        "content_2": {
+          "type": "content_2",
+          "settings": {
+            "field_0": "Four months to decide.",
+            "field_1": "Try Aurivita for 120 days. If you are not satisfied, we refund the product price. According to the brand, fewer than 0.5% of customers request a refund.",
+            "field_2": "What are our customers saying?*"
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1",
+        "content_2"
+      ],
+      "settings": {
+        "product": "aurivita-cayenne-pepper"
+      }
+    },
+    "av-reviews": {
+      "type": "av-reviews",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Over 20,000 happy customers*",
+            "field_1": "What do customers notice first?*",
+            "field_2": "Our verified customers share their experiences of warmth, energy and daily routines.*",
+            "field_3": "Rating: 4.9 / 5.0",
+            "field_4": "Fits easily into my routine",
+            "field_5": "“I also take natto and other supplements. I added these capsules to my routine six weeks ago and have had no problems.”*",
+            "field_6": "Gary Neumann",
+            "field_7": "Aurivita Cayenne Pepper",
+            "field_8": "April 30",
+            "field_9": "Rating: 4.7 / 5.0",
+            "field_10": "Sensitive stomach",
+            "field_11": "“I was worried about burning because my stomach is sensitive. I have used it for two months without reflux or stomach problems.”*",
+            "field_12": "Dylan Webb",
+            "field_13": "Aurivita Cayenne Pepper",
+            "field_14": "June 26",
+            "field_15": "Rating: 5.0 / 5.0",
+            "field_16": "No spicy taste",
+            "field_17": "“I feel a gentle warmth, but there is no spicy taste. There is no burning or pepper taste in my mouth.”*"
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Rob Moore",
+            "field_1": "Aurivita Cayenne Pepper",
+            "field_2": "July 2",
+            "field_3": "Rating: 4.9 / 5.0",
+            "field_4": "More balanced energy",
+            "field_5": "“After about two weeks, I noticed that my hands and feet were not constantly cold. Taking it with food fits easily into my daily routine.”*",
+            "field_6": "Karen Ibsen",
+            "field_7": "Aurivita Cayenne Pepper",
+            "field_8": "June 11"
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-problem": {
+      "type": "av-problem",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "THE CHALLENGE",
+            "field_1": "Early signs of cardiovascular health",
+            "field_2": "Stress, diet and everyday life may contribute to low-grade inflammation in the body. Understanding its effects on vascular health matters.",
+            "field_3": "Inflammation",
+            "field_4": "Blood vessel lining",
+            "field_5": "High blood pressure",
+            "field_6": "High cholesterol",
+            "field_7": "Inflammation",
+            "field_8": "Inflammation plays a role in cardiovascular risk and can sometimes occur years before other signs. Research cited on the source page reports that some people who have had a heart attack had cholesterol levels within the normal range.",
+            "field_9": "Ridker PM et al. NEJM, 1997; Sachdeva A et al. American Heart Journal, 2009.",
+            "field_10": "Blood vessel lining",
+            "field_11": "Over time, the lining of blood vessels may lose its ability to produce nitric oxide. Nitric oxide is a signaling molecule that helps blood vessels relax.",
+            "field_12": "Bonetti PO, Lerman LO, Lerman A. ATVB, 2003.",
+            "field_13": "High blood pressure",
+            "field_14": "Low intake of potassium, calcium, magnesium, fiber and fish oils is among the dietary factors associated with blood pressure. A balanced diet contributes to maintaining healthy levels.",
+            "field_15": "Whelton PK, et al. 2017 ACC/AHA Hypertension Guideline. J Am Coll Cardiol. 2018;71(19):e127–e248.",
+            "field_16": "High cholesterol",
+            "field_17": "Arterial plaque can begin building up years before a cholesterol test reveals a problem. Alongside cholesterol levels, the health of the blood vessel lining also matters."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Libby P et al. Atherosclerosis. Nature Reviews Disease Primers, 2019."
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-mechanism": {
+      "type": "av-mechanism",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "HOW IT WORKS",
+            "field_1": "Supports your body's natural pathways",
+            "field_2": "Capsaicin is thought to activate TRPV1 receptors in the blood vessel lining. Research links this pathway to natural nitric oxide production, which plays a role in healthy circulation.",
+            "field_3": "Daily support for the body's natural processes.",
+            "field_4": "Supports nitric oxide production",
+            "field_5": "Supports a healthy inflammatory response",
+            "field_6": "Uses the body's natural pathways",
+            "field_7": "Small dose, effective absorption"
+          }
+        }
+      },
+      "block_order": [
+        "content_0"
+      ],
+      "settings": {}
+    },
+    "av-routine": {
+      "type": "av-routine",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "DAILY ROUTINE",
+            "field_1": "Easy to add to your day",
+            "field_2": "Source page routine: one capsule 2–3 times a day",
+            "field_3": "ADIM 1",
+            "field_4": "With breakfast",
+            "field_5": "The source page suggests taking the first capsule with food in the morning.",
+            "field_6": "ADIM 2",
+            "field_7": "With lunch",
+            "field_8": "The source page suggests taking the second capsule with lunch.",
+            "field_9": "ADIM 3",
+            "field_10": "With dinner",
+            "field_11": "The source page suggests taking the third capsule with dinner.",
+            "field_12": "Follow the product label and your healthcare professional's advice for dosage. Regular use matters."
+          }
+        }
+      },
+      "block_order": [
+        "content_0"
+      ],
+      "settings": {}
+    },
+    "av-timeline": {
+      "type": "av-timeline",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "TIMELINE",
+            "field_1": "What to expect over time",
+            "field_2": "An estimated usage timeline shared on the source page. Individual experiences may vary.",
+            "field_3": "Week 1",
+            "field_4": "Week 2",
+            "field_5": "Week 6",
+            "field_6": "Week 10 and beyond",
+            "field_7": "Your body meets capsaicin.",
+            "field_8": "A mild feeling of warmth may occur during the initial period of use.",
+            "field_9": "A daily routine takes shape.",
+            "field_10": "The source page describes this period as the stage when regular use becomes part of a daily routine.",
+            "field_11": "Regular use continues.",
+            "field_12": "Experiences vary from person to person. The source page recommends continuing the daily routine at this stage.",
+            "field_13": "Review your experience.",
+            "field_14": "The source page recommends reviewing the experience after extended use. Results are not guaranteed."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-stats": {
+      "type": "av-stats",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "WHAT YOU NEED TO KNOW",
+            "field_1": "Details matter",
+            "field_2": "Information highlighted on the source page.",
+            "field_3": "Sachdeva, 2009",
+            "field_4": "apparently normal cholesterol levels in people who have had a heart attack. Source: Sachdeva, 2009.",
+            "field_5": "Libby, 2019",
+            "field_6": "10–20 years",
+            "field_7": "the time during which arterial plaque may build up without symptoms.",
+            "field_8": "Van Der Wardt, 2017",
+            "field_9": "Many people",
+            "field_10": "may experience high blood pressure again in the months after stopping medication.",
+            "field_11": "Less than 0.5%",
+            "field_12": "the proportion of customers requesting refunds, according to the brand.",
+            "field_13": "softgels per pack; 30 servings.",
+            "field_14": "24+ hours",
+            "field_15": "the daily support period stated on the source page."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-compare": {
+      "type": "av-compare",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "AURIVITA VS. OTHER BRANDS",
+            "field_1": "The details that set Aurivita apart",
+            "field_2": "Information highlighted on the source page.",
+            "field_3": "Nitric oxide",
+            "field_4": "Pathway",
+            "field_5": "Duration",
+            "field_6": "Target",
+            "field_7": "Dose",
+            "field_8": "Inflammation",
+            "field_9": "Supports natural production through TRPV1",
+            "field_10": "Supports the body's own processes",
+            "field_11": "24+ hours with daily use",
+            "field_12": "Cellular support for the blood vessel lining",
+            "field_13": "Small dose, effective absorption",
+            "field_14": "Supports a healthy inflammatory response",
+            "field_15": "Other brands",
+            "field_16": "Temporary 2–6 hour increase from dietary nitrates",
+            "field_17": "Relies on the conversion of dietary nitrates"
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Gaps in support between doses",
+            "field_1": "Does not directly target the blood vessel lining",
+            "field_2": "Requires larger servings",
+            "field_3": "The source comparison highlights seed oils",
+            "field_4": "Nitric oxide",
+            "field_5": "Pathway",
+            "field_6": "Duration",
+            "field_7": "Target",
+            "field_8": "Dose",
+            "field_9": "Inflammation",
+            "field_10": "Supports natural production through TRPV1",
+            "field_11": "Supports the body's own processes",
+            "field_12": "24+ hours with daily use",
+            "field_13": "Cellular support for the blood vessel lining",
+            "field_14": "Small dose, effective absorption",
+            "field_15": "Supports a healthy inflammatory response",
+            "field_16": "Other brands",
+            "field_17": "Temporary 2–6 hour increase from dietary nitrates"
+          }
+        },
+        "content_2": {
+          "type": "content_2",
+          "settings": {
+            "field_0": "Relies on the conversion of dietary nitrates",
+            "field_1": "Gaps in support between doses",
+            "field_2": "Does not directly target the blood vessel lining",
+            "field_3": "Requires larger servings",
+            "field_4": "The source comparison highlights seed oils"
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1",
+        "content_2"
+      ],
+      "settings": {}
+    },
+    "av-marquee": {
+      "type": "av-marquee",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Ingredients studied in research",
+            "field_1": "Long-term wellness",
+            "field_2": "Clean, quality formula",
+            "field_3": "Try it today",
+            "field_4": "120-day money-back guarantee",
+            "field_5": "Ingredients studied in research",
+            "field_6": "Long-term wellness",
+            "field_7": "Clean, quality formula",
+            "field_8": "Try it today",
+            "field_9": "120-day money-back guarantee"
+          }
+        }
+      },
+      "block_order": [
+        "content_0"
+      ],
+      "settings": {}
+    },
+    "av-faq": {
+      "type": "av-faq",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "FREQUENTLY ASKED QUESTIONS",
+            "field_1": "Have a question?",
+            "field_2": "What is in the formula and how does it work?",
+            "field_3": "The key ingredients are capsaicin and black pepper extract to support absorption.",
+            "field_4": "Capsaicin is the natural compound that gives peppers their heat. The black pepper extract in the formula is used to support absorption.",
+            "field_5": "The source page states that a mild feeling of warmth may be reported shortly after use.",
+            "field_6": "Consult your healthcare professional;",
+            "field_7": "especially if you are pregnant, have reflux or ulcers, or take blood thinners.",
+            "field_8": "When might I notice a difference?",
+            "field_9": "Experiences vary from person to person. Some people report changes in the first weeks, while others may use it for longer. The source page describes a regular routine of at least 10 weeks.",
+            "field_10": "When will my order arrive?",
+            "field_11": "Orders ship from the US facility within 24 hours with a tracking number. US delivery usually takes 3–6 business days.",
+            "field_12": "How is the product tested?",
+            "field_13": "The brand states that the product is made in an FDA-registered facility and independently lab tested for heavy metals and microbes.",
+            "field_14": "Consult your healthcare professional before use, especially if you are pregnant, breastfeeding, taking medication or have a medical condition.",
+            "field_15": "Will it cause heartburn?",
+            "field_16": "Capsaicin tolerance varies from person to person. Follow the instructions on the product label.",
+            "field_17": "Mild digestive discomfort may occur during initial use. If you have a history of reflux or ulcers, consult your healthcare professional before use."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Will it leave a spicy taste in my mouth?",
+            "field_1": "The softgel is designed to pass through the mouth and throat intact. A spicy taste from the capsule itself is therefore not expected."
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-science": {
+      "type": "av-science",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Ingredients and research",
+            "field_1": "Aurivita Capsaicin Power nedir?",
+            "field_2": "A daily cayenne pepper softgel developed to support natural nitric oxide production.",
+            "field_3": "Softgels with 3 mg of capsaicin per serving.",
+            "field_4": "Which studies are referenced?",
+            "field_5": "The source page references four peer-reviewed studies:",
+            "field_6": "Mortality risk",
+            "field_7": "Read the research",
+            "field_8": "Tansiyon",
+            "field_9": "Read the research",
+            "field_10": "Vascular health",
+            "field_11": "Read the research",
+            "field_12": "Arterial health",
+            "field_13": "Read the research",
+            "field_14": "Why capsaicin for circulation?",
+            "field_15": "Capsaicin is thought to activate TRPV1 receptors in the blood vessel lining. This pathway is associated with the body's own nitric oxide production.",
+            "field_16": "How is it made and tested?",
+            "field_17": "According to the brand, it is made to GMP standards in an FDA-registered facility and independently lab tested for heavy metals and microbes."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Consult your healthcare professional before use, especially during pregnancy or breastfeeding, when taking medication or blood thinners, or if you have reflux or ulcers.",
+            "field_1": "|",
+            "field_2": "What if I am not satisfied?",
+            "field_3": "You are covered by a 120-day money-back guarantee.",
+            "field_4": "Try it for four months. If you are not satisfied, you can request a refund of the product price.",
+            "field_5": "According to the brand, fewer than 0.5% of customers request a refund."
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    },
+    "av-sticky": {
+      "type": "av-sticky",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "4.6 / 5.0 · Source product reviews",
+            "field_1": "Aurivita Cayenne Pepper",
+            "field_2": "In stock",
+            "field_3": "ready for same-day shipping",
+            "field_4": "Add to cart"
+          }
+        }
+      },
+      "block_order": [
+        "content_0"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "product",
+    "av-reviews",
+    "av-problem",
+    "av-mechanism",
+    "av-routine",
+    "av-timeline",
+    "av-stats",
+    "av-compare",
+    "av-marquee",
+    "av-faq",
+    "av-science",
+    "av-sticky"
+  ]
+}

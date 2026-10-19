@@ -1,0 +1,645 @@
+{
+  "direct": {
+    "account.css": {
+      "bytes": 23777,
+      "file": "assets/account.css",
+      "sha256": "63bbf8a0af4a11c365dcf253d5b74a647f066806d8c715737334e8d3ec90c5f1",
+      "version": "63bbf8a0af4a11c3"
+    },
+    "account.js": {
+      "bytes": 1239,
+      "file": "assets/account.js",
+      "sha256": "6fddcabbb190f3735f9d5337258f8e53013b388c8be1e179e1d4e03e82da46ba",
+      "version": "6fddcabbb190f373"
+    },
+    "cart-drawer.css": {
+      "bytes": 25368,
+      "file": "assets/cart-drawer.css",
+      "sha256": "72e3ae04c6e7cfee537785cd1c77ec14bac516ca44ea7f19c7aaa6877a1b3817",
+      "version": "72e3ae04c6e7cfee"
+    },
+    "cart.js": {
+      "bytes": 25629,
+      "file": "assets/cart.js",
+      "sha256": "3fa3f6c8963c5c7bef2f5da04a7d8afb75881d9bf989e409a4c242b317991f0e",
+      "version": "3fa3f6c8963c5c7b"
+    },
+    "checkout.css": {
+      "bytes": 41197,
+      "file": "assets/checkout.css",
+      "sha256": "09f6fcd35c0913eb301616b94e1ef0f1b88cad67af0ce563f1dc8f81fd3a7194",
+      "version": "09f6fcd35c0913eb"
+    },
+    "content.js": {
+      "bytes": 14533,
+      "file": "assets/content.js",
+      "sha256": "480e57b4bbca250b2a07c63f11c25cb295e6a22653b284c5439d7764c84b886c",
+      "version": "480e57b4bbca250b"
+    },
+    "fonts.css": {
+      "bytes": 2249,
+      "file": "assets/fonts.css",
+      "sha256": "eaad2b56fb1d61ea0d2e4f411147a86451ae87fc66041958fcb0a3c2e9197ed8",
+      "version": "eaad2b56fb1d61ea"
+    },
+    "generic.css": {
+      "bytes": 5643,
+      "file": "assets/generic.css",
+      "sha256": "af0cd6957ca0316537413fe64c4d6ec0e21de872d8f92a64c0bb7ea73748956d",
+      "version": "af0cd6957ca03165"
+    },
+    "home.js": {
+      "bytes": 170,
+      "file": "assets/home.js",
+      "sha256": "2002ae6c5415b397e8f56895877c2e86ed0ef4a23a23172d93fb7b232836f184",
+      "version": "2002ae6c5415b397"
+    },
+    "product.js": {
+      "bytes": 26119,
+      "file": "assets/product.js",
+      "sha256": "26aa4afc66ccaeee97fae7d50d1953af568d5882cefb289c721feb13bd76b07e",
+      "version": "26aa4afc66ccaeee"
+    },
+    "shell.js": {
+      "bytes": 8816,
+      "file": "assets/shell.js",
+      "sha256": "d3e796980ffcad8482c8593c2d812d1ef30da3ce1f342665d719421aac893218",
+      "version": "d3e796980ffcad84"
+    },
+    "site.css": {
+      "bytes": 2393,
+      "file": "assets/site.css",
+      "sha256": "b63df4b3e5d69f460ba84846f19b77fce779ea97b49e6756c600d96b52cb6ee2",
+      "version": "b63df4b3e5d69f46"
+    },
+    "wp.css": {
+      "bytes": 29854,
+      "file": "assets/wp.css",
+      "sha256": "a3ebc86b4b7c6929169ba8c10407866c967b8186379efd504a367c44f1153b60",
+      "version": "a3ebc86b4b7c6929"
+    }
+  },
+  "global_rule_policy": "Retain shell/unknown selectors. Profiles replay globals in source order after the common prefix to preserve cascade.",
+  "input_sha256": {
+    "assets/account.css": "63bbf8a0af4a11c365dcf253d5b74a647f066806d8c715737334e8d3ec90c5f1",
+    "assets/account.js": "6fddcabbb190f3735f9d5337258f8e53013b388c8be1e179e1d4e03e82da46ba",
+    "assets/cart-drawer.css": "72e3ae04c6e7cfee537785cd1c77ec14bac516ca44ea7f19c7aaa6877a1b3817",
+    "assets/cart.js": "3fa3f6c8963c5c7bef2f5da04a7d8afb75881d9bf989e409a4c242b317991f0e",
+    "assets/checkout.css": "09f6fcd35c0913eb301616b94e1ef0f1b88cad67af0ce563f1dc8f81fd3a7194",
+    "assets/content.js": "480e57b4bbca250b2a07c63f11c25cb295e6a22653b284c5439d7764c84b886c",
+    "assets/fonts.css": "eaad2b56fb1d61ea0d2e4f411147a86451ae87fc66041958fcb0a3c2e9197ed8",
+    "assets/generic.css": "af0cd6957ca0316537413fe64c4d6ec0e21de872d8f92a64c0bb7ea73748956d",
+    "assets/home.js": "2002ae6c5415b397e8f56895877c2e86ed0ef4a23a23172d93fb7b232836f184",
+    "assets/product.js": "26aa4afc66ccaeee97fae7d50d1953af568d5882cefb289c721feb13bd76b07e",
+    "assets/shell.js": "d3e796980ffcad8482c8593c2d812d1ef30da3ce1f342665d719421aac893218",
+    "assets/site.css": "b63df4b3e5d69f460ba84846f19b77fce779ea97b49e6756c600d96b52cb6ee2",
+    "assets/source/av-home-styles.css": "9b5885db6ce8f172cf34aab7fe7af3a835806e9309e3047a4d5ed38a1c209057",
+    "assets/source/fw-cart-drawer.css": "51c6341a9d3254255ab02d2380f85b7cac7e9e00bbf52ed6da6543d60b054c5b",
+    "assets/source/fw-product-ux.css": "be76259c14d09b885d1bebfe6555ab8a127190a32f07ba7e83bf492a3cc35f23",
+    "assets/source/fw-styles-av-compare.css": "49bf1d1dd6e65b1ca4bdbeee654b0bfe2ab2fc81868cbd5ea358c36390445ce8",
+    "assets/source/fw-styles-av-faq.css": "f0c4c05dbef90a19dc700616fd590241bfc872bcae022edc48d8d7ac4b64fbee",
+    "assets/source/fw-styles-av-footer.css": "d7e1aed0a07961fbda87d2bcee2d622eab21b40311de45544a55d84ae03a883a",
+    "assets/source/fw-styles-av-header.css": "ffc34b9e66e34d855b84d2430384cbf83927cafbbe7b5afb0cf64b767133a942",
+    "assets/source/fw-styles-av-marquee.css": "97ab2aa5aa8114391c3b0dfedf9664ac2b7d483683ab0b5acdefaec14890de03",
+    "assets/source/fw-styles-av-mechanism.css": "e9cfdc46fba87d9c9aebd78afbf851367646d226d97ae267a34a9641ff269a01",
+    "assets/source/fw-styles-av-page.css": "bb3d834313dd50368d8e5af30d84c5449987dbadada17ef17b51b7ec131a2a22",
+    "assets/source/fw-styles-av-problem.css": "8161c0661c5ec3138a560ee8980db01f35921a4fd0f8d195027b4e8621075dca",
+    "assets/source/fw-styles-av-product.css": "3372ebb9efd50133ee049f5d616a15db5b62a6c6bfbe8571ac66cd35b467c7c2",
+    "assets/source/fw-styles-av-reviews.css": "ea1f875d18bff880a8cc8912749ff4ac1a7cab7c3e91a9493b01baf4a179930d",
+    "assets/source/fw-styles-av-routine.css": "6b8abd52a8e0ec1e44f53292c3e359495863fea5c199dd89e92937e840861749",
+    "assets/source/fw-styles-av-science.css": "39dde1c880a377f7daf6176bb4d6583ecb4b48ce24027c12d02a12d90d8187ab",
+    "assets/source/fw-styles-av-stats.css": "03d0b28446d712d4acfe7677380afc94de15ea09613e6f710e03c0f8863b9755",
+    "assets/source/fw-styles-av-sticky.css": "87756a49257f22cfecbed60eba06a6642fa5ff8a7ce9b66e0429e3f3c8645453",
+    "assets/source/fw-styles-av-timeline.css": "41b45a18e712962215695c79e7af1fe11e288442ba8dada5412dda54607cd5fe",
+    "assets/source/fw-styles-shared.css": "f35aef5c442a49befa457e6281ee4fea44a5de7c2089206971718b989334b5b5",
+    "assets/wp.css": "a3ebc86b4b7c6929169ba8c10407866c967b8186379efd504a367c44f1153b60"
+  },
+  "interactive_content_types": [
+    "av-reviews",
+    "av-problem",
+    "av-timeline",
+    "av-stats",
+    "av-compare",
+    "av-faq",
+    "av-science"
+  ],
+  "profiles": {
+    "all": {
+      "bytes": 166065,
+      "file": "assets/build/all.18ef05f579a8ed9e.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 1471,
+      "sha256": "18ef05f579a8ed9ea74515cfe9ff325c7af520186d8f1c5fabab282e05e23cff",
+      "types": [
+        "av-compare",
+        "av-faq",
+        "av-marquee",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-science",
+        "av-stats",
+        "av-sticky",
+        "av-timeline",
+        "home"
+      ],
+      "version": "18ef05f579a8ed9e"
+    },
+    "common": {
+      "bytes": 24883,
+      "file": "assets/build/common.ff616d7e68f9ce1d.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": false,
+      "rules": 264,
+      "sha256": "ff616d7e68f9ce1d1fd3c65c8c4332429566c93dfadd5083fc8797e955cccacf",
+      "types": [],
+      "version": "ff616d7e68f9ce1d"
+    },
+    "compare": {
+      "bytes": 35817,
+      "file": "assets/build/compare.9ad67f736cdfae8d.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 348,
+      "sha256": "9ad67f736cdfae8d7c45c6be28f327f82ac940196a3f858293446c0da91a4574",
+      "types": [
+        "av-compare"
+      ],
+      "version": "9ad67f736cdfae8d"
+    },
+    "content": {
+      "bytes": 96532,
+      "file": "assets/build/content.f9cea857d751bfdb.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 847,
+      "sha256": "f9cea857d751bfdbf141e35edfca724250cebad4f6f81236e4223867d147f54c",
+      "types": [
+        "av-compare",
+        "av-faq",
+        "av-marquee",
+        "av-mechanism",
+        "av-problem",
+        "av-reviews",
+        "av-routine",
+        "av-science",
+        "av-stats",
+        "av-timeline"
+      ],
+      "version": "f9cea857d751bfdb"
+    },
+    "faq": {
+      "bytes": 31151,
+      "file": "assets/build/faq.543ca3f1a1b383e9.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 320,
+      "sha256": "543ca3f1a1b383e977675560dcf4b01aa60ace1aedcc9d7a0829b4dde747b18b",
+      "types": [
+        "av-faq"
+      ],
+      "version": "543ca3f1a1b383e9"
+    },
+    "faq-science": {
+      "bytes": 38385,
+      "file": "assets/build/faq-science.ebc8ec9f64ecb21d.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 394,
+      "sha256": "ebc8ec9f64ecb21dcb0884cdd0593640f03dbcd8e695efa2fd80b8bad6acb653",
+      "types": [
+        "av-faq",
+        "av-science"
+      ],
+      "version": "ebc8ec9f64ecb21d"
+    },
+    "generic-content": {
+      "bytes": 36674,
+      "file": "assets/build/generic-content.ced32ba71328d274.css",
+      "renderer": "generic",
+      "replays_global_rules_in_original_order": true,
+      "rules": 404,
+      "sha256": "ced32ba71328d2741373e9da2a399122ade26096451af03566c930e141ebdf08",
+      "types": [
+        "home"
+      ],
+      "version": "ced32ba71328d274"
+    },
+    "generic-product": {
+      "bytes": 47299,
+      "file": "assets/build/generic-product.96906e183c4dff20.css",
+      "renderer": "generic",
+      "replays_global_rules_in_original_order": true,
+      "rules": 528,
+      "sha256": "96906e183c4dff2085cb14797f45eb9d0ea416507ce501491507bea9cc595146",
+      "types": [
+        "av-product",
+        "home"
+      ],
+      "version": "96906e183c4dff20"
+    },
+    "home": {
+      "bytes": 44293,
+      "file": "assets/build/home.4b489529c11cf922.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 480,
+      "sha256": "4b489529c11cf922d315a7e052adeec5728af8a88476cbf6c5e586b2894c0939",
+      "types": [
+        "av-science",
+        "home"
+      ],
+      "version": "4b489529c11cf922"
+    },
+    "home-basic": {
+      "bytes": 37059,
+      "file": "assets/build/home-basic.2f631633894a2a44.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 406,
+      "sha256": "2f631633894a2a44860a2edf9d8c452027502a8cf64a4a6406109ad31998de03",
+      "types": [
+        "home"
+      ],
+      "version": "2f631633894a2a44"
+    },
+    "marquee": {
+      "bytes": 27534,
+      "file": "assets/build/marquee.cc83040e3f8f29d0.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 282,
+      "sha256": "cc83040e3f8f29d0c0673dd6dc2b400dd4628ce8524da852b7feae84c16e6d03",
+      "types": [
+        "av-marquee"
+      ],
+      "version": "cc83040e3f8f29d0"
+    },
+    "mechanism": {
+      "bytes": 31655,
+      "file": "assets/build/mechanism.6aa34bfdf4ad1f75.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 316,
+      "sha256": "6aa34bfdf4ad1f75af6d508a2894df0f669c8e9058ebe83651443694c59a2b88",
+      "types": [
+        "av-mechanism"
+      ],
+      "version": "6aa34bfdf4ad1f75"
+    },
+    "problem": {
+      "bytes": 35325,
+      "file": "assets/build/problem.cbf496c9c667bd2c.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 347,
+      "sha256": "cbf496c9c667bd2c903b5859c4313f2a9172785d9e07236fa17d1288ef86f9b2",
+      "types": [
+        "av-problem"
+      ],
+      "version": "cbf496c9c667bd2c"
+    },
+    "product": {
+      "bytes": 153889,
+      "file": "assets/build/product.438be3dc86ec7b9d.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 1329,
+      "sha256": "438be3dc86ec7b9d072569253663c09efb0916512573af7d3b12157a61529017",
+      "types": [
+        "av-compare",
+        "av-faq",
+        "av-marquee",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-science",
+        "av-stats",
+        "av-sticky",
+        "av-timeline"
+      ],
+      "version": "438be3dc86ec7b9d"
+    },
+    "product-basic": {
+      "bytes": 75345,
+      "file": "assets/build/product-basic.cc88502dd8d946aa.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 692,
+      "sha256": "cc88502dd8d946aab792d20d23c43bcb5a70c95476b2b4d7f12e601124594920",
+      "types": [
+        "av-product"
+      ],
+      "version": "cc88502dd8d946aa"
+    },
+    "reviews": {
+      "bytes": 36790,
+      "file": "assets/build/reviews.ec79d00b4bdf395f.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 353,
+      "sha256": "ec79d00b4bdf395f177c437a470722922668a67cf0afd9fe6ca91fbfb4743cce",
+      "types": [
+        "av-reviews"
+      ],
+      "version": "ec79d00b4bdf395f"
+    },
+    "routine": {
+      "bytes": 30638,
+      "file": "assets/build/routine.1770bb3a852a9403.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 308,
+      "sha256": "1770bb3a852a940398b03318709f980904f2b412a3ec664999372b37a928cda5",
+      "types": [
+        "av-routine"
+      ],
+      "version": "1770bb3a852a9403"
+    },
+    "science": {
+      "bytes": 32117,
+      "file": "assets/build/science.9b323e9f30a54686.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 338,
+      "sha256": "9b323e9f30a54686b661832fdc631f111cd90a5caf9246da5dba604901fb770d",
+      "types": [
+        "av-science"
+      ],
+      "version": "9b323e9f30a54686"
+    },
+    "stats": {
+      "bytes": 29789,
+      "file": "assets/build/stats.28437ef54d0ea481.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 307,
+      "sha256": "28437ef54d0ea481e7464e1888976de4fd47e4eb77ec5a38b5b6df14e28907f1",
+      "types": [
+        "av-stats"
+      ],
+      "version": "28437ef54d0ea481"
+    },
+    "timeline": {
+      "bytes": 31111,
+      "file": "assets/build/timeline.297be2945e133f34.css",
+      "renderer": "reference",
+      "replays_global_rules_in_original_order": true,
+      "rules": 317,
+      "sha256": "297be2945e133f3491d3ee2e35b42480380feeee780284e31c13501df2631e96",
+      "types": [
+        "av-timeline"
+      ],
+      "version": "297be2945e133f34"
+    }
+  },
+  "schema_version": 1,
+  "source_order": [
+    "fw-styles-shared.css",
+    "fw-styles-av-header.css",
+    "av-home-styles.css",
+    "fw-styles-av-product.css",
+    "fw-product-ux.css",
+    "fw-styles-av-reviews.css",
+    "fw-styles-av-problem.css",
+    "fw-styles-av-mechanism.css",
+    "fw-styles-av-routine.css",
+    "fw-styles-av-timeline.css",
+    "fw-styles-av-stats.css",
+    "fw-styles-av-compare.css",
+    "fw-styles-av-marquee.css",
+    "fw-styles-av-faq.css",
+    "fw-styles-av-science.css",
+    "fw-styles-av-sticky.css",
+    "fw-styles-av-footer.css",
+    "fw-styles-av-page.css",
+    "fw-cart-drawer.css",
+    "site.css",
+    "generic.css"
+  ],
+  "source_registry": [
+    {
+      "bytes": 8828,
+      "conditional_types": [],
+      "file": "fw-styles-shared.css",
+      "global_rules": 93,
+      "rules": 93
+    },
+    {
+      "bytes": 4685,
+      "conditional_types": [],
+      "file": "fw-styles-av-header.css",
+      "global_rules": 49,
+      "rules": 49
+    },
+    {
+      "bytes": 13420,
+      "conditional_types": [
+        "home"
+      ],
+      "file": "av-home-styles.css",
+      "global_rules": 0,
+      "rules": 142
+    },
+    {
+      "bytes": 48848,
+      "conditional_types": [
+        "av-faq",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-product.css",
+      "global_rules": 7,
+      "rules": 395
+    },
+    {
+      "bytes": 5669,
+      "conditional_types": [
+        "av-product"
+      ],
+      "file": "fw-product-ux.css",
+      "global_rules": 1,
+      "rules": 50
+    },
+    {
+      "bytes": 18826,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-science",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-reviews.css",
+      "global_rules": 5,
+      "rules": 140
+    },
+    {
+      "bytes": 16992,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-problem.css",
+      "global_rules": 5,
+      "rules": 131
+    },
+    {
+      "bytes": 11856,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-reviews",
+        "av-routine",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-mechanism.css",
+      "global_rules": 4,
+      "rules": 87
+    },
+    {
+      "bytes": 10999,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-reviews",
+        "av-routine",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-routine.css",
+      "global_rules": 4,
+      "rules": 81
+    },
+    {
+      "bytes": 13098,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-timeline.css",
+      "global_rules": 5,
+      "rules": 104
+    },
+    {
+      "bytes": 5374,
+      "conditional_types": [
+        "av-compare",
+        "av-stats"
+      ],
+      "file": "fw-styles-av-stats.css",
+      "global_rules": 1,
+      "rules": 44
+    },
+    {
+      "bytes": 11680,
+      "conditional_types": [
+        "av-compare",
+        "av-stats"
+      ],
+      "file": "fw-styles-av-compare.css",
+      "global_rules": 1,
+      "rules": 85
+    },
+    {
+      "bytes": 2767,
+      "conditional_types": [
+        "av-marquee"
+      ],
+      "file": "fw-styles-av-marquee.css",
+      "global_rules": 0,
+      "rules": 18
+    },
+    {
+      "bytes": 10780,
+      "conditional_types": [
+        "av-faq",
+        "av-mechanism",
+        "av-problem",
+        "av-product",
+        "av-reviews",
+        "av-routine",
+        "av-timeline"
+      ],
+      "file": "fw-styles-av-faq.css",
+      "global_rules": 5,
+      "rules": 84
+    },
+    {
+      "bytes": 8801,
+      "conditional_types": [
+        "av-reviews",
+        "av-science"
+      ],
+      "file": "fw-styles-av-science.css",
+      "global_rules": 12,
+      "rules": 86
+    },
+    {
+      "bytes": 7598,
+      "conditional_types": [
+        "av-product",
+        "av-sticky"
+      ],
+      "file": "fw-styles-av-sticky.css",
+      "global_rules": 0,
+      "rules": 59
+    },
+    {
+      "bytes": 1759,
+      "conditional_types": [],
+      "file": "fw-styles-av-footer.css",
+      "global_rules": 20,
+      "rules": 20
+    },
+    {
+      "bytes": 829,
+      "conditional_types": [],
+      "file": "fw-styles-av-page.css",
+      "global_rules": 3,
+      "rules": 3
+    },
+    {
+      "bytes": 904,
+      "conditional_types": [],
+      "file": "fw-cart-drawer.css",
+      "global_rules": 10,
+      "rules": 10
+    },
+    {
+      "bytes": 2393,
+      "conditional_types": [],
+      "file": "site.css",
+      "global_rules": 30,
+      "rules": 30
+    },
+    {
+      "bytes": 5643,
+      "conditional_types": [],
+      "file": "generic.css",
+      "global_rules": 52,
+      "rules": 52
+    }
+  ]
+}

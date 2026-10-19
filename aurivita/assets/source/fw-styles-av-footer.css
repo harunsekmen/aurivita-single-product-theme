@@ -1,0 +1,17 @@
+.local-footer{border-top:1px solid var(--border);background:var(--surface);padding:64px max(30px,calc((100% - 1420px)/2)) 25px;color:var(--fg)}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:64px}
+.footer-logo{width:180px;height:auto;margin-bottom:24px}
+.footer-grid h3{font-size:20px;margin:0 0 18px}
+.footer-grid p{font-size:15px;line-height:1.6;margin-bottom:10px}
+.footer-grid a,.footer-grid button{font-size:16px;display:block;width:fit-content;min-height:44px;background:none;border:0;padding:8px 0;text-decoration:none;text-align:left;color:var(--fg)}
+.footer-grid a:hover,.footer-grid button:hover{text-decoration:underline;color:var(--fg)}
+.footer-disclosures{border-top:1px solid var(--border);padding-top:25px;margin-top:30px;font-size:13px;line-height:1.55;color:var(--muted)}
+.footer-disclosures p+p{margin-top:10px}
+.footer-bottom{margin-top:30px;padding-top:20px;border-top:1px solid var(--border);display:flex;justify-content:space-between;gap:20px;font-size:13px}
+@media(max-width:989px){.footer-grid{gap:32px}}
+@media(max-width:749px){.footer-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:25px}.footer-grid>div:first-child{grid-column:1/-1}.local-footer{padding:40px 20px 20px}.footer-bottom{flex-direction:column;gap:10px}}
+.local-footer{background:var(--av-ink);color:#fff;border-color:#6f3032}
+.footer-grid a,.footer-grid button,.footer-grid a:hover,.footer-grid button:hover{color:#fff}
+.footer-disclosures{color:#bfa7a8;border-color:#6f3032}
+.footer-bottom{border-color:#6f3032}
+@media(min-width:1400px) and (max-width:1600px){.icon-button,.cc-pdp__main-arrow,.cc-pdp__video-ctl,.cc-customer-notice__arrow,.footer-grid button,.aurivita-stats__dot,.avs__dot{min-width:49px!important;min-height:49px!important}}

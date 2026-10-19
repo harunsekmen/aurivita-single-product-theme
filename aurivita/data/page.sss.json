@@ -1,0 +1,47 @@
+{
+  "sections": {
+    "faq": {
+      "type": "av-faq",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "FREQUENTLY ASKED QUESTIONS",
+            "field_1": "Have a question?",
+            "field_2": "What is in the formula and how does it work?",
+            "field_3": "The key ingredients are capsaicin and black pepper extract to support absorption.",
+            "field_4": "Capsaicin is the natural compound that gives peppers their heat. The black pepper extract in the formula is used to support absorption.",
+            "field_5": "The source page states that a mild feeling of warmth may be reported shortly after use.",
+            "field_6": "Consult your healthcare professional;",
+            "field_7": "especially if you are pregnant, have reflux or ulcers, or take blood thinners.",
+            "field_8": "When might I notice a difference?",
+            "field_9": "Experiences vary from person to person. Some people report changes in the first weeks, while others may use it for longer. The source page describes a regular routine of at least 10 weeks.",
+            "field_10": "When will my order arrive?",
+            "field_11": "Orders ship from the US facility within 24 hours with a tracking number. US delivery usually takes 3–6 business days.",
+            "field_12": "How is the product tested?",
+            "field_13": "The brand states that the product is made in an FDA-registered facility and independently lab tested for heavy metals and microbes.",
+            "field_14": "Consult your healthcare professional before use, especially if you are pregnant, breastfeeding, taking medication or have a medical condition.",
+            "field_15": "Will it cause heartburn?",
+            "field_16": "Capsaicin tolerance varies from person to person. Follow the instructions on the product label.",
+            "field_17": "Mild digestive discomfort may occur during initial use. If you have a history of reflux or ulcers, consult your healthcare professional before use."
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {
+            "field_0": "Will it leave a spicy taste in my mouth?",
+            "field_1": "The softgel is designed to pass through the mouth and throat intact. A spicy taste from the capsule itself is therefore not expected."
+          }
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "faq"
+  ]
+}

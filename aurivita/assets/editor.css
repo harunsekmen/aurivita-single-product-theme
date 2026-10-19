@@ -1,0 +1,12 @@
+.editor-styles-wrapper{height:auto;overflow:auto;font-family:var(--font-body);color:var(--av-ink)}
+.editor-styles-wrapper #wpadminbar{display:none}
+.editor-styles-wrapper .wp-block[data-type^="aurivita/"]{max-width:100%;margin:24px 0}
+.editor-styles-wrapper .av-root{display:block}
+.editor-styles-wrapper .section{display:block}
+.editor-styles-wrapper .cc-pdp__main{display:block}
+.editor-styles-wrapper .cc-pdp__gallery,.editor-styles-wrapper .cc-pdp__info{width:100%;max-width:100%}
+.editor-styles-wrapper .cc-pdp__slide{display:none}
+.editor-styles-wrapper .cc-pdp__slide:first-child{display:block}
+.editor-styles-wrapper av-sticky,.editor-styles-wrapper .cc-sticky-atc{position:static}
+.editor-styles-wrapper .av-root svg{max-width:24px;max-height:24px}
+.editor-styles-wrapper .av-root dialog{display:none}

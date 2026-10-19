@@ -1,0 +1,46 @@
+{
+  "type": "footer",
+  "name": "footer",
+  "sections": {
+    "footer": {
+      "type": "av-footer",
+      "blocks": {
+        "content_0": {
+          "type": "content_0",
+          "settings": {
+            "field_0": "Aurivita store in preparation",
+            "field_1": "Store contact details",
+            "field_2": "Company",
+            "field_3": "Our product",
+            "field_4": "Contact",
+            "field_5": "Frequently asked questions",
+            "field_6": "Track your order",
+            "field_7": "Policies",
+            "field_8": "Terms of use",
+            "field_9": "Privacy policy",
+            "field_10": "Returns policy",
+            "field_11": "Shipping policy",
+            "field_12": "Subscriptions and cancellation",
+            "field_13": "† These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat or prevent any disease. Consult your healthcare professional before use. Individual results may vary.",
+            "field_14": "* Reviews reflect customer experiences on the source site; they do not represent typical results or guarantee outcomes.",
+            "field_15": "‡ The 120-day money-back guarantee covers the product price only. Details are subject to the source site's returns terms.",
+            "field_16": "© 2026 Aurivita. All rights reserved.",
+            "field_17": "English · US dollars (USD)"
+          }
+        },
+        "content_1": {
+          "type": "content_1",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "content_0",
+        "content_1"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
