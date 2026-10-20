@@ -12,6 +12,10 @@ Developed and maintained by **[Harun Sekmen](https://github.com/harunsekmen)** �
 
 [✉️ Discuss Your Store](mailto:sekmenwp@gmail.com) · [🌐 Website](https://harunsekmen.com) · [🔗 LinkedIn](https://www.linkedin.com/in/harunsekmen/) · [💼 Upwork Profile](https://www.upwork.com/freelancers/~01a7a8b58043e6e6d9)
 
+<p align="center">
+  <img src="assets/aurivita-showcase.png" alt="Aurivita Storefront & Express Checkout Architecture Showcase" width="100%">
+</p>
+
 ---
 
 ## 📸 1. The High-Converting Single Product Experience (PDP)
